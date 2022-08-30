@@ -8,7 +8,8 @@
 - 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving and exploring new technologies.
 - 🎓 &nbsp;I'm currently pursuing Masters in Data Science at Indiana University, Bloomington.
 - 🌱 &nbsp;Passionate about learning more in the fields of Machine Learning, Deep Learning, and Cloud Computing.
-- ✉️ &nbsp;You can shoot me an email at asakiram@iu.edu for any discussions!
+- 👩‍💻 &nbsp;Completed my Data Science internship at Petal in Aug'22 and actively looking for full-time opportunities for DS and MLE roles.
+- ✉️ &nbsp;You can shoot me an email at asakiram@iu.edu for any discussions or opportunities!
 
 
 <h3>🛠 Tech Stack</h3>
